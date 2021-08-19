@@ -1,0 +1,39 @@
+{
+  "name": "HELLO-ERC-20-TOKEN",
+  "version": "1.0.0",
+  "description": "A simple project on how to create an ERC-20 token using openzeppelin smart contracts",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Erodotos/HELLO-ERC-20-TOKEN.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Erodotos/HELLO-ERC-20-TOKEN/issues"
+  },
+  "homepage": "https://github.com/Erodotos/HELLO-ERC-20-TOKEN#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "4.2.0",
+    "@truffle/hdwallet-provider": "1.4.3",
+    "chai": "4.3.4",
+    "chai-as-promised": "7.1.1",
+    "chai-bn": "0.3.0",
+    "dotenv": "10.0.0",
+    "is-plain-obj": "1.1.0",
+    "is-retry-allowed": "1.2.0",
+    "isurl": "1.0.0",
+    "minimist": "1.2.5",
+    "p-timeout": "1.2.1",
+    "ultron": "1.1.1",
+    "url-to-options": "1.0.1",
+    "web3": "1.5.2"
+  }
+}
