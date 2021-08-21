@@ -25,7 +25,7 @@ My goal for this project is to deploy a functional ERC-20 token on Ethereum's te
 
 <p align="center">
   <a href="https://nodejs.org/en/">
-    <img src="https://nodejs.org/static/images/logo.svg" height="100">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" height="100">
   </a>
 </p>
 
@@ -33,7 +33,7 @@ My goal for this project is to deploy a functional ERC-20 token on Ethereum's te
 
 <p align="center">
   <a href="https://www.trufflesuite.com/truffle">
-    <img src="https://www.trufflesuite.com/img/truffle-logo-light.svg" width="150" height="165">
+    <img src="https://miro.medium.com/max/400/1*P-T7USHsmPYOSBorXAqXYA.png" width="150" height="165">
   </a>
 </p>
 
@@ -47,7 +47,7 @@ My goal for this project is to deploy a functional ERC-20 token on Ethereum's te
 
 ## Deployment
 
-To deploy this project locally, we need to have installed on our local environment [NodeJS](https://nodejs.org/en/) and [Truffle](https://www.trufflesuite.com/truffle. Subsequently, we can proceed with applying the following commands.
+To deploy this project locally, we need to have installed on our local environment [NodeJS](https://nodejs.org/en/) and [Truffle](https://www.trufflesuite.com/truffle). Subsequently, we can proceed with applying the following commands.
 
 ```shell
 $ git clone https://github.com/Erodotos/HELLO-ERC-20-TOKEN
@@ -105,4 +105,4 @@ $ truffle(develop)> migrate --network ropsten
 
 Click on the Image/Link below to view the demonstration video.
 
-
+[![Demo Video](https://i.imgur.com/AVYTJwR.png)](https://www.youtube.com/watch?v=jUDCeGHQ-zI)
